@@ -1,2 +1,3 @@
-# glassmorphismCardHover
-Entrando na onda do glassmorphism!
+# Glassmorphism Card Hover!
+## Demo
+ ![Glassmorphism Card Hover](./assets/img/cardhoverdemo.gif)
